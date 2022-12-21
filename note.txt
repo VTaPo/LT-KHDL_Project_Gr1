@@ -1,0 +1,8 @@
+- Tập tin thay đổi: file jupyter notebook và Slide trình bày báo cáo
+- Vị trí thay đổi:
+	C. ĐƯA RA CÁC CÂU HỎI VÀ TRẢ LỜI
+		II. Nội dung
+			Câu hỏi 6
+				Phân tích dữ liệu để trả lời cho các câu hỏi
+					Code bước 2
+- Nội dung thay đổi: Màu sắc của On-site và Partially Remote trong biểu đồ tròn thể hiện Tỉ trọng của các hình thức làm việc từ xa theo từng năm.
